@@ -1,5 +1,4 @@
 # FinalProject.Github.io
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,3 +36,41 @@
             margin-bottom: 30px;
         }
     </style>
+</head>
+<body>
+    <header>
+        <h1>ChatGPT: A Critical Look at Generative AI</h1>
+    </header>
+
+    <div class="container">
+        <section class="section">
+            <h2>🧠 Introduction to ChatGPT</h2>
+        </section>
+
+        <section class="section">
+            <h2>🔹 What Technology Did We Choose?</h2>
+            <p>Our team chose <strong>ChatGPT</strong>, a cutting-edge language model developed by <strong>OpenAI</strong>. ChatGPT is a form of <strong>Generative AI</strong>, specifically designed to understand and generate human-like text. It belongs to a family of models called <strong>GPT (Generative Pre-trained Transformer)</strong>, with the most recent versions demonstrating powerful capabilities in natural language understanding, conversation, content creation, summarization, and even coding.</p>
+            <p>Powered by deep learning and trained on vast datasets from books, websites, and other text sources, ChatGPT can carry out contextual dialogues, generate articles, write code, and more — all with astonishing coherence and fluidity.</p>
+        </section>
+
+        <section class="section">
+            <h2>🔹 Why Did We Choose ChatGPT?</h2>
+            <p>We selected ChatGPT because it sits at the center of a technological and ethical revolution. Since its public release in late 2022, ChatGPT has transformed industries including:</p>
+            <ul>
+                <li><strong>Education</strong> (homework help, tutoring, plagiarism concerns),</li>
+                <li><strong>Business</strong> (customer service, content writing, decision support),</li>
+                <li><strong>Healthcare</strong> (medical advice, mental health apps),</li>
+                <li><strong>Software development</strong> (code generation, debugging assistance),</li>
+                <li><strong>Media</strong> (AI journalism, storytelling, and creative writing).</li>
+            </ul>
+            <p>The pace at which ChatGPT has been adopted is unmatched, but it also brings <strong>deep ethical questions</strong>:</p>
+            <ul>
+                <li>How should society respond to jobs potentially displaced by AI?</li>
+                <li>What responsibilities do developers have when releasing powerful AI tools?</li>
+                <li>How do we address <strong>bias, misinformation, or misuse</strong>?</li>
+            </ul>
+            <p>These questions — and their real-world implications — make ChatGPT the perfect focus for a critical ethical discussion.</p>
+        </section>
+    </div>
+</body>
+</html>
